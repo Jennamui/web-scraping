@@ -14,7 +14,7 @@ import pandas as pd
 
 4. For the CDC news site, I used the div tag and class="webny-teaser-title" to obtain all the titles of news statements
 
-5. To obtain the descriptions of the articles, I used the div tage and class="eebny-card-description"
+5. To obtain the descriptions of the articles, I used the div tage and class="webny-card-description"
 
 6. After extracting all the information, I created two lists with the titles and descriptions
 
