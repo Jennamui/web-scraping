@@ -40,4 +40,4 @@ dictionary = {'names': list1, 'descriptions': list2}
 df = pd.DataFrame({'names':output_titles,'descriptions': output_descriptions})
 
 #save dataframe to csv file
-df.to_csv('/Users/jennamui/Documents/GitHub/web-scraping/cdc_website_news.csv')
+df.to_csv('/Users/jennamui/Documents/GitHub/web-scraping/data/cdc_website_news.csv')
